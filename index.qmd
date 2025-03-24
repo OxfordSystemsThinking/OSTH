@@ -1,0 +1,23 @@
+---
+title: "Welcome to the Hub"
+subtitle: "Developing and promoting cutting-edge practical systems thinking approaches."
+image: OSTHubLogoV2.jpg
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 15em
+  links: 
+  - text: LinkedIn
+    icon: linkedin
+    href: https://www.linkedin.com/groups/13110209/
+    
+format: 
+  html: 
+    toc: false
+---
+
+### About us
+We set up the Oxford Systems Thinking Hub in Summer 2024 to promote and develop Systems Thinking across the University of Oxford. We had met many colleagues using Systems Thinking, related ideas, and methods, but without a common place to share ideas and develop new research. We felt the need for an intellectual home for Systems Thinking at Oxford; we hope the hub will be just that!
+
+### Get involved
+If you would like to chat about our work, attend events, or join the hub, get in touch at peter.barbrook-johnson\@ouce.ox.ac.uk and saskia.nowicki\@ouce.ox.ac.uk

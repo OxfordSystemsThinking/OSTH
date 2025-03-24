@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Oxford Systems Thinking Hub" # clicking this will take users to the index page
+  navbar:
+    left:
+      #- href: index.qmd  # if the hash is removed, these lines put an 'About' option in the menu bar
+      #  text: About
+      - activity.qmd
+      - projects.qmd
+      - people.qmd
+      - resources.qmd
+      - publications.qmd
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual

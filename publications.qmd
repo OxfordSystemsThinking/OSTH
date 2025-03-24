@@ -1,0 +1,27 @@
+---
+title: "Publications"
+---
+
+This page features key publications from the Oxford community that develop and / or apply systems thinking approaches.
+
+### Systems mapping
+
+[Systems mapping: how to build and use causal models of systems, by Pete Barbrook-Johnson and Alexandra Penn, 2022, Palgrave.](https://link.springer.com/book/10.1007/978-3-031-01919-7) - practical book outlining a range of systems mapping methods and how to use them.
+
+[Participatory systems mapping for complex energy policy evaluation, Barbrook-Johnson, P., & Penn, A. 2021.](https://doi.org/10.1177/1356389020976153) - paper outlining the use of participatory systems mapping (and the analysis of submaps drawn from larger maps) in policy analysis.
+
+[Building a system-based Theory of Change using Participatory Systems Mapping, Wilkinson, H., Hills, D., Penn, A., & Barbrook-Johnson, P. 2021](https://doi.org/10.1177/1356389020980493) - paper outlining how to using systems mapping to inform a Theory of Change.
+
+### Sensitive Intervention Points
+
+[Sensitive intervention points: a strategic approach to climate action, Mealy, P., Barbrook-Johnson, P., Ives, MC., Srivastav, S., Hepburn, C, 2023.](https://doi.org/10.1093/oxrep/grad043) - paper outlining a relatively detailed framework for using the idea of 'sensitive intervenion points' to assess policy and intervention ideas; SIPs incorporate many systems thinking ideas.
+
+### Modelling the energy transition
+
+[Economic modelling fit for the demands of energy decision makers, Barbrook-Johnson, P., Mercure, JF., Sharpe, S. et al. 2024](https://doi.org/10.1038/s41560-024-01452-7) - comment piece call for new approaches to modelling for the energy transition, including systems thinking approaches.
+
+[New economic models of energy innovation and transition](https://eeist.co.uk/eeist-reports/new-economic-models-of-energy-innovation-and-transition/) - library of case studies of new approaches to modelling the energy transition, including many quant and qual systems approaches.
+
+### Principles of complex systems
+
+[The visual representation of complexity](https://www.cecan.ac.uk/wp-content/uploads/2020/08/Poster-07-Joanna-Boehnert.pdf) - poster explaining the various defining characteristics of complex systems with simple visuals, examples, and learning points.

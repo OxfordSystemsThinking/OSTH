@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+This page features projects from the Oxford community that develop and / or apply systems thinking approaches.
+
+[The Agile Initiative: revolutionising how research responds to the urgent needs of policymakers. Funded by NERC.](https://www.agile-initiative.ox.ac.uk/)
+
+[The Economics of Energy Innovation and System Transition. Funded by UK HM Government + CIFF.](https://eeist.co.uk/)
+
+System mapping for the power sector transition in China. Funded by QCF and DESNZ.
