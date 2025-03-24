@@ -1,10 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the Hub",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "About us\nWe set up the Oxford Systems Thinking Hub in Summer 2024 to promote and develop Systems Thinking across the University of Oxford. We had met many colleagues using Systems Thinking, related ideas, and methods, but without a common place to share ideas and develop new research. We felt the need for an intellectual home for Systems Thinking at Oxford; we hope the hub will be just that!\n\n\nGet involved\nIf you would like to chat about our work, attend events, or join the hub, get in touch at peter.barbrook-johnson@ouce.ox.ac.uk and saskia.nowicki@ouce.ox.ac.uk"
+    "text": "This page features projects from the Oxford community that develop and / or apply systems thinking approaches.\nThe Agile Initiative: revolutionising how research responds to the urgent needs of policymakers. Funded by NERC.\nThe Economics of Energy Innovation and System Transition. Funded by UK HM Government + CIFF.\nSystem mapping for the power sector transition in China. Funded by QCF and DESNZ."
+  },
+  {
+    "objectID": "activity.html",
+    "href": "activity.html",
+    "title": "Hub Activity",
+    "section": "",
+    "text": "Reading discussion group\nThe OSTH hosts a reading discussion group that meets regularly during Oxford term time.\n\nOur reading list\n\n\n\nUpcoming events\n\nSeminars\n\n\nWorkshops and trainings\nThere are no upcoming trainings currently scheduled. We are always happy for suggestions, so please let us know if you have ideas for trainings.\n\n\n\nPrevious events\n\nPast seminars\nONE Water event - details coming soon\nINET seminar series, Hilary Term 2025 - details coming soon\n\n\nPast workshops and trainings\nACCESS Systems mapping course - 12 November - a few spaces still available\nSystems Thinking Masterclasses (Fully booked)\nSystems mapping workshop 2024, organised in partnership with INET Oxford and the Cascade Institute.\nTipping points workshop 2024, organised in partnership with INET Oxford and the Cascade Institute.\nSystems thinking workshop 2023, organised in partnership with the School of Geography and the Environment, Oxford."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Teaching materials\nComing soon: handbooks, lecture slides, and other materials for courses we teach on systems thinking and complexity sciences."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "This page features key publications from the Oxford community that develop and / or apply systems thinking approaches.\n\nSystems mapping\nSystems mapping: how to build and use causal models of systems, by Pete Barbrook-Johnson and Alexandra Penn, 2022, Palgrave. - practical book outlining a range of systems mapping methods and how to use them.\nParticipatory systems mapping for complex energy policy evaluation, Barbrook-Johnson, P., & Penn, A. 2021. - paper outlining the use of participatory systems mapping (and the analysis of submaps drawn from larger maps) in policy analysis.\nBuilding a system-based Theory of Change using Participatory Systems Mapping, Wilkinson, H., Hills, D., Penn, A., & Barbrook-Johnson, P. 2021 - paper outlining how to using systems mapping to inform a Theory of Change.\n\n\nSensitive Intervention Points\nSensitive intervention points: a strategic approach to climate action, Mealy, P., Barbrook-Johnson, P., Ives, MC., Srivastav, S., Hepburn, C, 2023. - paper outlining a relatively detailed framework for using the idea of ‘sensitive intervenion points’ to assess policy and intervention ideas; SIPs incorporate many systems thinking ideas.\n\n\nModelling the energy transition\nEconomic modelling fit for the demands of energy decision makers, Barbrook-Johnson, P., Mercure, JF., Sharpe, S. et al. 2024 - comment piece call for new approaches to modelling for the energy transition, including systems thinking approaches.\nNew economic models of energy innovation and transition - library of case studies of new approaches to modelling the energy transition, including many quant and qual systems approaches.\n\n\nPrinciples of complex systems\nThe visual representation of complexity - poster explaining the various defining characteristics of complex systems with simple visuals, examples, and learning points."
   },
   {
     "objectID": "people.html",
@@ -21,31 +42,17 @@
     "text": "Friends of the hub\nThe following research groups at Oxford and beyond regularly collaborate with us and do their own similar research.\nESRC Centre for the Evaluation of Complexity Across the Nexus\nInstitute for New Economic Thinking\nOxford Networks for the Environment"
   },
   {
-    "objectID": "activity.html",
-    "href": "activity.html",
-    "title": "Hub Activity",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the Hub",
     "section": "",
-    "text": "Reading discussion group\nThe OSTH hosts a reading discussion group that meets regularly during Oxford term time.\n\nOur reading list\n\n\n\nUpcoming events\n\nSeminars\n\n\nWorkshops and trainings\nThere are no upcoming trainings currently scheduled. We are always happy for suggestions, so please let us know if you have ideas for trainings.\n\n\n\nPrevious events\n\nPast seminars\nONE Water event - details coming soon\nINET seminar series, Hilary Term 2025 - details coming soon\n\n\nPast workshops and trainings\nACCESS Systems mapping course - 12 November - a few spaces still available\nSystems Thinking Masterclasses (Fully booked)\nSystems mapping workshop 2024, organised in partnership with INET Oxford and the Cascade Institute.\nTipping points workshop 2024, organised in partnership with INET Oxford and the Cascade Institute.\nSystems thinking workshop 2023, organised in partnership with the School of Geography and the Environment, Oxford."
+    "text": "About us\nWe set up the Oxford Systems Thinking Hub in Summer 2024 to promote and develop Systems Thinking across the University of Oxford. We had met many colleagues using Systems Thinking, related ideas, and methods, but without a common place to share ideas and develop new research. We felt the need for an intellectual home for Systems Thinking at Oxford; we hope the hub will be just that!\n\n\nGet involved\nIf you would like to chat about our work, attend events, or join the hub, get in touch at peter.barbrook-johnson@ouce.ox.ac.uk and saskia.nowicki@ouce.ox.ac.uk"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "people.html#active-members",
+    "href": "people.html#active-members",
+    "title": "People",
     "section": "",
-    "text": "This page features projects from the Oxford community that develop and / or apply systems thinking approaches.\nThe Agile Initiative: revolutionising how research responds to the urgent needs of policymakers. Funded by NERC.\nThe Economics of Energy Innovation and System Transition. Funded by UK HM Government + CIFF.\nSystem mapping for the power sector transition in China. Funded by QCF and DESNZ."
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Teaching materials\nComing soon: handbooks, lecture slides, and other materials for courses we teach on systems thinking and complexity sciences."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "This page features key publications from the Oxford community that develop and / or apply systems thinking approaches.\n\nSystems mapping\nSystems mapping: how to build and use causal models of systems, by Pete Barbrook-Johnson and Alexandra Penn, 2022, Palgrave. - practical book outlining a range of systems mapping methods and how to use them.\nParticipatory systems mapping for complex energy policy evaluation, Barbrook-Johnson, P., & Penn, A. 2021. - paper outlining the use of participatory systems mapping (and the analysis of submaps drawn from larger maps) in policy analysis.\nBuilding a system-based Theory of Change using Participatory Systems Mapping, Wilkinson, H., Hills, D., Penn, A., & Barbrook-Johnson, P. 2021 - paper outlining how to using systems mapping to inform a Theory of Change.\n\n\nSensitive Intervention Points\nSensitive intervention points: a strategic approach to climate action, Mealy, P., Barbrook-Johnson, P., Ives, MC., Srivastav, S., Hepburn, C, 2023. - paper outlining a relatively detailed framework for using the idea of ‘sensitive intervenion points’ to assess policy and intervention ideas; SIPs incorporate many systems thinking ideas.\n\n\nModelling the energy transition\nEconomic modelling fit for the demands of energy decision makers, Barbrook-Johnson, P., Mercure, JF., Sharpe, S. et al. 2024 - comment piece call for new approaches to modelling for the energy transition, including systems thinking approaches.\nNew economic models of energy innovation and transition - library of case studies of new approaches to modelling the energy transition, including many quant and qual systems approaches.\n\n\nPrinciples of complex systems\nThe visual representation of complexity - poster explaining the various defining characteristics of complex systems with simple visuals, examples, and learning points."
+    "text": "Dr. Pete Barbrook-Johnson (Founding co-director) - using systems mapping, system dynamics, and agent-based modelling on a range of energy and environmental topics.\nDr. Saskia Nowicki (Founding co-director) - using systems framing and mapping for implementation science to advance water security.\nDr. Fernanda Senra de Moura (Honorary Research Associate) - using data-driven systems mapping and agent-based modelling on climate.\nAissa Dearing (DPhil student) - using participatory systems approaches on carbon dioxide removal.\nGustė Gurčinaitė (DPhil student) - using participatory systems approaches on the role of justice in policy.\nJordan White (Research Intern) - using AI tools to support systems methods.\nJose Espí (DPhil student) - using SIPs and system dynamics on bioplastics.\nMax Collett (Research assistant) - using systems mapping on power sector reform.\nOwen Haaga (DPhil student) - using system dynamics to model labour flows in the energy transition.\nPoornima Kumar (DPhil student) - using systems approaches on digitilisation and energy use.\nYuan Fu (DPhil student) - using NLP to support systems mapping."
   }
 ]

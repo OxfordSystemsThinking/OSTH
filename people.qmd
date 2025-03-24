@@ -1,6 +1,7 @@
 ---
 title: "People"
 ---
+## Active members
 
 [Dr. Pete Barbrook-Johnson (Founding co-director)](https://www.inet.ox.ac.uk/people/peter-barbrook-johnson) - using systems mapping, system dynamics, and agent-based modelling on a range of energy and environmental topics.
 
@@ -23,6 +24,7 @@ title: "People"
 [Poornima Kumar (DPhil student)](https://www.geog.ox.ac.uk/graduate/research/pkumar.html) - using systems approaches on digitilisation and energy use.
 
 [Yuan Fu (DPhil student)](https://www.inet.ox.ac.uk/people/yuan-fu) - using NLP to support systems mapping.
+
 
 ## Friends of the hub
 
