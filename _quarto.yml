@@ -8,15 +8,17 @@ website:
     left:
       #- href: index.qmd  # if the hash is removed, these lines put an 'About' option in the menu bar
       #  text: About
-      - activity.qmd
-      - projects.qmd
-      - people.qmd
-      - resources.qmd
-      - publications.qmd
+      - events.qmd
+      - reading.qmd
+      #- projects.qmd
+      #- people.qmd
+      #- resources.qmd
+      #- publications.qmd
 
 format:
   html:
-    theme: lux
+    theme: minty
+    linkcolor: rebeccapurple
     css: styles.css
     toc: true
 

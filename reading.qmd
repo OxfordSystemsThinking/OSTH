@@ -1,0 +1,43 @@
+---
+title: "Reading Group"
+subtitle: "The OSTH hosts a reading discussion group that meets regularly during Oxford term time."
+image: OSTHubLogoV2.jpg
+about:
+  template: marquee
+  image-shape: rectangle
+  image-width: 15em
+---
+
+### Reading discussion group upcoming activities
+
+For Trinity Term 2025, our reading and discussion will look at advancements in qualitative, quantitative, and mixed-methods aspects of systems thinking.
+
+**Session 1 (qual-focus): Thursday 15^th^ May 1-2pm, Manor Road Building seminar room D**
+
+This exchange in ‘Ecosystems and People’ explores the need and practicalities of recognising relationality in systems thinking on sustainability. It provides insight into the challenges of reconciling different traditions of systems thinking. We suggest reading the first paper and perhaps also having a look at the responses (which are quite short).
+
+-   [[A relational turn for sustainability science? Relational thinking, leverage points and transformations (West et al. 2020).]{.underline}](https://www.tandfonline.com/doi/full/10.1080/26395916.2020.1814417#abstract "https://www.tandfonline.com/doi/full/10.1080/26395916.2020.1814417#abstract")
+
+-   [[Reply to West et al. – Engaging with the pragmatics of relational thinking, leverage points and transformations (Raymond et al. 2020).]{.underline}](https://www.tandfonline.com/doi/full/10.1080/26395916.2020.1867645#abstract "https://www.tandfonline.com/doi/full/10.1080/26395916.2020.1867645#abstract")
+
+-   [[Reply to Raymond et al. – Putting relational thinking to work in sustainability science (West et al. 2021).]{.underline}](https://www.tandfonline.com/doi/full/10.1080/26395916.2021.1898477#d1e319 "https://www.tandfonline.com/doi/full/10.1080/26395916.2021.1898477#d1e319")
+
+**Session 2 (quant-focus): Thursday 29^th^ May 1-2pm, Manor Road Building seminar room D**
+
+This 'Nature Sustainability' paper describes a full quantitative system dynamics model. We can discuss the model details and/or think about how the approach is framed to reach a broad audience.
+
+-   [[Modelling the drivers of a widespread shift to sustainable diets (Eker et al. 2019).]{.underline}](https://www.nature.com/articles/s41893-019-0331-1 "https://www.nature.com/articles/s41893-019-0331-1")
+
+**Session 3 Integrated: Thursday 12^th^ June 1-2pm, Manor Road Building seminar room D**
+
+This 'Systems Research and Behavioral Science' paper explores how conceptualisations of justice can be brought into system dynamics models, which helps us see more how models are used in practice and how they interface with deeper social science concepts.
+
+-   [[Integrating distributive justice in system dynamics models of sustainability transitions (Kopainsky et al. 2024).]{.underline}](https://onlinelibrary.wiley.com/doi/10.1002/sres.3038 "https://onlinelibrary.wiley.com/doi/10.1002/sres.3038")
+
+### Our reading archive
+
+-   [The Four Waves of Systems Thinking. (Cabrera et al. 2023; Journal of Systems Thinking).](https://www.scienceopen.com/hosted-document?doi=10.54120/jost.000051)
+-   [Introduction to Systems Thinking (Daniel Kim 1999; The Systems Thinker blog)](https://thesystemsthinker.com/introduction-to-systems-thinking/)
+-   Part one of the ‘Thinking in Systems: A Primer’ book by Donella Meadows
+    -   There is online access through the uni library
+    -   Or there is a [free PDF via Florida Tech Uni](https://research.fit.edu/media/site-specific/researchfitedu/coast-climate-adaptation-library/climate-communications/psychology-amp-behavior/Meadows-2008.-Thinking-in-Systems.pdf)

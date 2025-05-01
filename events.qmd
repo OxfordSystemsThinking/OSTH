@@ -1,0 +1,41 @@
+---
+title: "Events"
+subtitle: "The OSTH hosts speakers from across Oxford and beyond to share insights on the development and application of systems thinking methods. We also organise workshops and facilitated trainings."
+image: OSTHubLogoV2.jpg
+about:
+  template: marquee
+  image-shape: rectangle
+  image-width: 15em
+---
+
+### Upcoming events
+
+There are no events scheduled for the Trinity Term and summer period. These activities will begin again in the new academic year.
+
+We are always happy for suggestions, so please let us know if you have ideas.
+
+### Previous events
+
+**March 2025 – Fireside chat with Dr Peter Drobac** **– Hosted by [INET Oxford](https://www.inet.ox.ac.uk/)**
+
+An educator, doctor and social entrepreneur, Dr Drobac is the former Director of the Skoll Centre for Social Entrepreneurship at the University of Oxford. He is a specialist in the development of high-performing health and education systems. For over a decade, Peter played a key role in the transformation of Rwanda’s health system, which has delivered unprecedented gains in population health and prosperity. As executive director of Partners In Health in Rwanda, he established community-based health system incubators that developed and scaled care delivery innovations from infectious diseases to cancer. He was a co-founder and first executive director of the University of Global Health Equity (UGHE) in Rwanda. Now, Peter is the CEO of Crucible, a startup unlocking Africa's human potential by launching a network of secondary school leadership academies for the continent's most talented teenagers.
+
+**February 2025 – Fireside chat with Dr Monika Zurek – Hosted by [INET Oxford](https://www.inet.ox.ac.uk/)**
+
+Dr Zurek is a titular associate professor and senior researcher at the Environmental Change Institute at the University of Oxford and a member of the ECI Food System Transformation Group. For more than 20 years she has worked on food systems change, environment and development interactions in research and international organisations as well as in the consulting and the philanthropic sector. Prior to joining ECI, Monika worked with Climate Focus, the Bill & Melinda Gates Foundation, the FAO, and the International nMaize and Wheat Improvement Center. Monika has also been a lead author for various environmental assessments such as the Intergovernmental Panel on Climate Change (IPCC, AR4), the Millennium Ecosystem Assessment, and the International Assessment of Agricultural Knowledge, Science and Technology for Development (IAASTD).
+
+**December 2024 – Workshops: Systems thinking masterclasses for researchers and policy-makers – Hosted by the [Agile Initiative](https://www.agile-initiative.ox.ac.uk/) and [GALLANT](https://www.gla.ac.uk/schools/education/research/fromlocaltoglobalresearch/researchprojects/gallant/) project**
+
+The masterclasses were designed for researchers and policy-makers to build their network whilst delving into the practice of systems thinking. Participants were welcomed from all disciplines regardless of prior experience/familiarity with systems approaches and methods. Systems thinking is a broad and sometimes ill-defined field. These masterclasses, introduced a range of methods, modelling, and thinking, from the conceptual, through to qualitative, participatory, and quantitative. Discussions covered core concepts and methods, effective practices, maximising impact, and career development. 
+
+**November 2024 – Workshop: Systems mapping for environmental domains – Hosted by [ACCESS](https://accessnetwork.uk/) and [CECAN](https://www.cecan.ac.uk/welcome/)**
+
+This workshop, facilitated by Dr Alexandra Penn and Dr Pete Barbrook-Johnson, showcased practical uses of systems mapping across a range of situations, stakeholders and challenges. It provided hands-on experience of constructing a systems map collaboratively to produce actionable insights on applying systems mapping.
+
+**October 2024 – Seminar with Dr Abubakr Muhammad – Hosted by [OWN](https://www.water.ox.ac.uk/home)**
+
+Dr Abubakr Muhammad is an Associate Professor, founding director of the Center for Water Informatics & Technology (WIT), and lead of the NCRA National Agricultural Robotics Lab at Lahore University of Management Science. He serves on various advisory panels to government agencies and industry in Pakistan on water, climate and agricultural policy, especially on the use of emerging digital technologies for these sectors. His seminar titled: 'From behavior to policy: a systems perspective on establishing hydrometeorological monitoring networks in complex river basins' presented work on indigenously building large-scale earth observation networks using a fusion of technologies and community participation in South Asia and the Indus basin. He discussed how combining monitoring data with agent-based socio-hydrological models and basin-scale integrated assessment models has enabled large-scale policy interventions for irrigation demand management, the exploration of nature-based solutions in agriculture, preparation for rare events in transboundary rivers, and generation of scenarios for investment options in the Water-Energy-Food-Climate nexus.
+
+**May 2023 – Workshop: Systems thinking for environmental research and governance – Hosted by [SoGE](https://www.geog.ox.ac.uk/)**
+
+At the Oxford School of Geography and the Environment (SoGE), systems thinking is used in varied forms to understand the complex dynamics of human-environment interactions. Research spans water, food, energy, biodiversity, climate, marine protection and other areas – with cross-cutting work on economic and social justice. Projects are highly interdisciplinary, but ongoing knowledge exchange between research groups is challenging. This workshop convened research groups to celebrate and strengthen the use of systems thinking and systems tools at SOGE. With impact in mind, we were joined by systems-thinking leaders from the UK government to discuss the use of systems-based research in environmental governance decision-making.
