@@ -8,7 +8,7 @@ about:
   image-width: 15em
 ---
 
-### Reading discussion group upcoming activities
+### Upcoming activities
 
 For Trinity Term 2025, our reading and discussion will look at advancements in qualitative, quantitative, and mixed-methods aspects of systems thinking.
 
