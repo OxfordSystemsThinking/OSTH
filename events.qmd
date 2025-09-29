@@ -1,6 +1,6 @@
 ---
 title: "Events"
-subtitle: "The OSTH hosts speakers from across Oxford and beyond to share insights on the development and application of systems thinking methods. We also organise workshops and facilitated trainings."
+subtitle: "The OSTH hosts speakers from across Oxford and beyond to share insights on the development and application of systems thinking methods. We also organise workshops and facilitated trainings. We are happy to receive suggestions for events, so please let us know if you have ideas."
 image: OSTHubLogoV2.jpg
 about:
   template: marquee
@@ -10,9 +10,17 @@ about:
 
 ### Upcoming events
 
-There are no events scheduled for the Trinity Term and summer period. These activities will begin again in the new academic year.
+**October 27, 1-2:30 pm - Invited Guest Lecture from Professor Birgit Kopainsky**
 
-We are always happy for suggestions, so please let us know if you have ideas.
+Professor Birgit Kopainsky shares lessons learned on how to support the science-policy-society interface.
+
+Environmental and societal challenges are complex, interconnected, and ever-evolving, requiring more than isolated or siloed interventions to be addressed effectively. This talk introduces systems thinking as a framework for understanding the feedback loops, delays, and non-linearities that characterize these challenges. Drawing on examples from interdisciplinary research projects, the presentation explores how systems thinking and modeling tools can help negotiate a shared understanding of a challenge, highlight unintended consequences of interventions, identify leverage points, and support more resilient and adaptive policy design. The talk discusses various ways in which systems thinking and modeling can support the science-policy-society interface while recognizing the pitfalls and limitations of this approach.
+
+All welcome, please [register](https://forms.cloud.microsoft/pages/responsepage.aspx?id=G96VzPWXk0-0uv5ouFLPka4QV9BOJihOtK1a1SIecbZUQTQ5UTdGMkU5VDU2RlVVM1ZGUU4zUEVZNi4u&route=shorturl)to secure your place. This talk will take place at the Lecture Theatre, Oxford Martin School. The venue is wheelchair accessible (lift to the 1st floor) and has a hearing loop.
+
+Find further event details here: <https://talks.ox.ac.uk/talks/id/8b08a342-ae48-4cb8-8399-fa7db0487376/>
+
+Get in touch if you have any questions, including requests for accessibility accommodations: heather.stallard\@oxfordmartin.ox.ac.uk
 
 ### Previous events
 
